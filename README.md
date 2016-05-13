@@ -1,2 +1,2 @@
-# module2-sloution
-module2-sloution repository
+# Coursera_Solutions
+All solutions in this repo
